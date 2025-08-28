@@ -1,16 +1,23 @@
-# test1
+# CoffeeBreak ☕️
 
-A new Flutter project.
+CoffeeBreak is a Flutter application designed to provide a smooth and enjoyable user experience for coffee lovers and casual users alike. This project serves as a starting point for exploring Flutter development.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Getting Started
 
-A few resources to get you started if this is your first Flutter project:
+Follow these instructions to get your development environment set up and run CoffeeBreak on your local machine.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Prerequisites
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter SDK](https://docs.flutter.dev/get-started/install)
+- [Android Studio or VS Code](https://flutter.dev/docs/get-started/editor)
+- A connected device or emulator
+
+### Installation
+
+1. **Clone the repository**  
+
+```bash
+git clone https://github.com/chhitpunleu/flutter-app.git
+cd flutter-app
